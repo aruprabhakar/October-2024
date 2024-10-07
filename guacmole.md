@@ -7,3 +7,5 @@ Guacamole
 ### Measurements
 
 ## Directions
+mash the avacado
+add lime and salt
